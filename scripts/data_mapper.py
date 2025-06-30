@@ -9,17 +9,20 @@ try:
     lookup_keys = raw['lookup_key'].drop_duplicates()
     print(f"Found {len(lookup_keys)} unique lookup_keys.")
 
-    print(" Matching reference data")
-    matched = reference[reference['lookup_key'].isin(lookup_keys)]
-    print(f"Matched rows: {len(matched)}")
+    print(" Performing INNER JOIN to include only matched records")
+    # Keep only records where lookup_key is present in both raw and reference
+    merged = pd.merge(raw, reference, on='lookup_key', how='inner')
+    print(f"Matched rows: {len(merged)}")
 
-    matched.to_csv('data/mapped_output.csv', index=False)
+    # Save the final output (only matched rows with full raw + reference columns)
+    merged.to_csv('data/mapped_output.csv', index=False)
 
-    #  Unmatched keys
+    # Save unmatched raw lookup_keys for reporting
     unmatched = raw[~raw['lookup_key'].isin(reference['lookup_key'])]
     unmatched.to_csv('results/unmatched_keys.csv', index=False)
     print(f"Unmatched keys saved: {len(unmatched)}")
 
     print(" Mapping complete. Output written to 'data/mapped_output.csv'")
+
 except Exception as e:
     print(" Error:", e)
