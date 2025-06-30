@@ -1,101 +1,101 @@
-lookup_key,project_name,location,status,capacity_mw,date_added
-CC861,EcoPower,California,Active,36,2025-01-26
-MN480,SolarOne,Oregon,Pending,56,2023-07-05
-AA886,HydroFlow,California,Pending,99,2024-06-19
-BB712,SolarOne,Oregon,Inactive,80,2022-12-01
-CC791,SolarTwo,Iowa,Pending,47,2023-07-13
-KJ797,SolarTwo,Nevada,Pending,88,2025-01-29
-BB192,SolarTwo,California,Active,92,2023-08-08
-CC133,SolarTwo,Texas,Active,14,2024-11-11
-CC750,EcoPower,Nevada,Active,69,2024-03-15
-AA718,HydroFlow,Texas,Inactive,68,2022-10-05
-AA520,HydroFlow,Iowa,Inactive,37,2024-04-03
-MN125,WindPlus,California,Pending,27,2025-05-17
-XZ972,WindPlus,Nevada,Active,81,2024-10-14
-MN264,GreenLight,Kansas,Pending,95,2024-08-13
-CC453,SolarTwo,Oregon,Active,56,2022-09-07
-AA310,WindPlus,California,Inactive,46,2025-02-19
-XZ535,WindPlus,California,Pending,29,2024-03-08
-CC511,SolarOne,Kansas,Active,13,2022-09-11
-BB997,HydroFlow,Texas,Inactive,93,2024-03-09
-CC253,EcoPower,Nevada,Inactive,98,2024-08-17
-KJ845,SolarOne,Kansas,Inactive,96,2022-09-18
-AA986,SolarTwo,Kansas,Pending,22,2024-10-05
-CC960,SolarTwo,Iowa,Active,49,2024-02-09
-BB486,EcoPower,Iowa,Inactive,20,2023-10-14
-XZ115,SolarTwo,Kansas,Inactive,25,2023-10-25
-CC636,GreenLight,Oregon,Pending,95,2023-09-09
-KJ134,GreenLight,Oregon,Inactive,45,2022-11-29
-MN900,EcoPower,Oregon,Inactive,87,2024-03-31
-BB154,EcoPower,Nevada,Inactive,17,2023-12-09
-AA231,GreenLight,California,Active,77,2024-03-01
-XZ646,WindX,California,Active,66,2024-05-26
-MN130,EcoPower,Texas,Inactive,100,2025-05-21
-CC344,EcoPower,Kansas,Pending,39,2023-07-24
-CC635,EcoPower,Nevada,Pending,34,2023-01-27
-AA283,WindPlus,Oregon,Active,78,2022-11-13
-AA219,GreenLight,California,Inactive,21,2022-09-04
-KJ230,EcoPower,Iowa,Active,97,2022-10-19
-BB898,SolarTwo,Texas,Active,63,2023-11-19
-KJ905,EcoPower,Texas,Inactive,97,2024-05-30
-XZ350,SolarTwo,Nevada,Pending,42,2024-06-18
-AA123,HydroFlow,Kansas,Pending,99,2023-10-02
-MN775,HydroFlow,Texas,Active,86,2023-03-10
-KJ546,EcoPower,Texas,Active,87,2024-06-30
-CC261,GreenLight,Texas,Pending,36,2024-12-17
-CC460,WindPlus,Iowa,Inactive,90,2024-07-12
-CC143,SolarOne,Texas,Active,57,2025-04-29
-CC314,WindPlus,Nevada,Active,77,2023-09-07
-MN413,EcoPower,Nevada,Inactive,93,2024-07-31
-MN938,HydroFlow,Kansas,Inactive,87,2023-06-08
-AA892,HydroFlow,Iowa,Inactive,75,2025-01-08
-KJ598,GreenLight,Nevada,Pending,96,2024-03-17
-BB660,WindX,Texas,Active,70,2023-05-17
-AA240,SolarOne,Texas,Inactive,44,2023-11-13
-BB527,WindPlus,Nevada,Inactive,84,2024-10-06
-XZ275,EcoPower,Kansas,Pending,32,2024-05-25
-XZ868,GreenLight,California,Pending,88,2024-05-03
-KJ405,SolarOne,Nevada,Pending,33,2023-12-10
-XZ339,SolarTwo,Nevada,Pending,80,2024-03-13
-XZ498,WindX,Iowa,Active,82,2024-09-15
-XZ253,WindPlus,Iowa,Inactive,96,2023-10-14
-XZ530,HydroFlow,Iowa,Pending,20,2023-08-02
-MN148,SolarTwo,California,Inactive,80,2024-03-04
-AA182,WindX,Nevada,Pending,50,2022-12-25
-CC376,HydroFlow,California,Inactive,75,2023-12-23
-MN568,GreenLight,Oregon,Inactive,27,2024-12-15
-BB569,WindPlus,Oregon,Active,29,2023-09-23
-BB402,GreenLight,Iowa,Inactive,68,2025-01-25
-MN848,WindPlus,Oregon,Inactive,27,2024-06-04
-CC957,SolarTwo,Nevada,Pending,50,2024-01-27
-XZ181,SolarOne,Oregon,Pending,96,2022-11-28
-CC359,WindPlus,California,Inactive,71,2022-11-07
-CC676,GreenLight,Nevada,Inactive,21,2024-05-16
-XZ469,GreenLight,California,Active,40,2024-05-12
-CC399,SolarTwo,Kansas,Pending,83,2024-08-18
-KJ871,WindX,Kansas,Active,97,2025-03-06
-BB980,GreenLight,Kansas,Active,83,2023-11-16
-BB751,WindPlus,Nevada,Inactive,77,2023-12-04
-BB552,WindX,Iowa,Pending,56,2024-02-06
-MN742,SolarOne,Nevada,Inactive,37,2024-02-15
-KJ917,SolarTwo,Texas,Pending,97,2023-01-18
-MN158,EcoPower,Kansas,Active,51,2022-09-30
-MN969,WindX,Kansas,Inactive,43,2024-04-15
-MN121,WindX,Texas,Inactive,46,2024-09-20
-AA224,GreenLight,California,Active,64,2024-12-26
-AA926,WindPlus,Oregon,Active,67,2023-05-04
-CC393,SolarOne,California,Inactive,83,2023-08-10
-AA851,HydroFlow,California,Inactive,52,2024-12-02
-KJ496,HydroFlow,Oregon,Inactive,70,2025-04-18
-AA421,GreenLight,Iowa,Inactive,36,2023-06-15
-CC170,SolarTwo,Nevada,Inactive,52,2023-09-15
-MN790,WindPlus,Nevada,Active,11,2023-01-23
-CC294,GreenLight,Oregon,Active,46,2023-05-11
-XZ870,GreenLight,California,Active,88,2024-12-28
-MN166,GreenLight,Texas,Inactive,58,2023-11-01
-BB560,HydroFlow,Nevada,Pending,55,2025-02-24
-CC849,EcoPower,Nevada,Active,95,2022-10-05
-KJ459,WindX,Nevada,Active,77,2024-10-14
-CC678,SolarOne,Nevada,Pending,76,2023-05-08
-AA105,WindPlus,Oregon,Active,45,2024-08-12
-CC883,EcoPower,Kansas,Active,39,2024-07-24
+lookup_key,requested_by,request_date,priority,notes,project_name,location,status,capacity_mw,date_added
+CC460,Charlie,26-10-2024,Medium,Follow up,WindPlus,Iowa,Inactive,90,2024-07-12
+CC883,Charlie,09-01-2025,High,Follow up,EcoPower,Kansas,Active,39,2024-07-24
+BB898,Evan,05-09-2024,High,Follow up,SolarTwo,Texas,Active,63,2023-11-19
+XZ530,Bob,09-09-2024,High,Waiting for approval,HydroFlow,Iowa,Pending,20,2023-08-02
+CC359,Alice,10-03-2025,Medium,Follow up,WindPlus,California,Inactive,71,2022-11-07
+KJ905,Alice,23-06-2024,High,Waiting for approval,EcoPower,Texas,Inactive,97,2024-05-30
+XZ870,Evan,24-07-2024,High,Waiting for approval,GreenLight,California,Active,88,2024-12-28
+AA231,Evan,31-05-2024,Low,Follow up,GreenLight,California,Active,77,2024-03-01
+XZ868,Bob,01-07-2024,Low,Follow up,GreenLight,California,Pending,88,2024-05-03
+CC294,Charlie,13-07-2024,Low,,GreenLight,Oregon,Active,46,2023-05-11
+MN130,Evan,16-01-2025,Medium,Urgent,EcoPower,Texas,Inactive,100,2025-05-21
+CC678,Diana,12-03-2025,Medium,,SolarOne,Nevada,Pending,76,2023-05-08
+MN969,Alice,16-10-2024,High,Waiting for approval,WindX,Kansas,Inactive,43,2024-04-15
+MN121,Diana,04-06-2024,Medium,Waiting for approval,WindX,Texas,Inactive,46,2024-09-20
+MN264,Charlie,08-05-2025,High,Urgent,GreenLight,Kansas,Pending,95,2024-08-13
+AA182,Charlie,10-06-2024,High,,WindX,Nevada,Pending,50,2022-12-25
+BB154,Alice,05-08-2024,High,Waiting for approval,EcoPower,Nevada,Inactive,17,2023-12-09
+CC750,Alice,16-09-2024,Medium,Urgent,EcoPower,Nevada,Active,69,2024-03-15
+CC960,Evan,30-03-2025,Medium,,SolarTwo,Iowa,Active,49,2024-02-09
+XZ181,Bob,09-04-2025,High,Waiting for approval,SolarOne,Oregon,Pending,96,2022-11-28
+XZ535,Bob,10-11-2024,Medium,Urgent,WindPlus,California,Pending,29,2024-03-08
+CC376,Charlie,28-09-2024,Low,Follow up,HydroFlow,California,Inactive,75,2023-12-23
+AA219,Charlie,12-03-2025,Medium,Follow up,GreenLight,California,Inactive,21,2022-09-04
+KJ134,Diana,06-05-2025,Medium,Follow up,GreenLight,Oregon,Inactive,45,2022-11-29
+CC636,Evan,17-08-2024,Low,Follow up,GreenLight,Oregon,Pending,95,2023-09-09
+MN900,Alice,27-05-2024,High,Urgent,EcoPower,Oregon,Inactive,87,2024-03-31
+BB192,Charlie,06-12-2024,Low,Follow up,SolarTwo,California,Active,92,2023-08-08
+AA520,Evan,12-11-2024,Medium,Urgent,HydroFlow,Iowa,Inactive,37,2024-04-03
+AA310,Evan,17-08-2024,Medium,Waiting for approval,WindPlus,California,Inactive,46,2025-02-19
+BB980,Bob,12-06-2024,Medium,Follow up,GreenLight,Kansas,Active,83,2023-11-16
+BB569,Bob,13-09-2024,Low,,WindPlus,Oregon,Active,29,2023-09-23
+CC635,Bob,29-05-2024,Low,Follow up,EcoPower,Nevada,Pending,34,2023-01-27
+XZ115,Diana,29-04-2025,Low,,SolarTwo,Kansas,Inactive,25,2023-10-25
+KJ917,Evan,22-02-2025,High,,SolarTwo,Texas,Pending,97,2023-01-18
+CC170,Bob,15-10-2024,Low,Follow up,SolarTwo,Nevada,Inactive,52,2023-09-15
+AA224,Bob,29-05-2024,Low,,GreenLight,California,Active,64,2024-12-26
+XZ646,Evan,08-03-2025,Medium,Waiting for approval,WindX,California,Active,66,2024-05-26
+XZ498,Alice,01-05-2025,Medium,Follow up,WindX,Iowa,Active,82,2024-09-15
+XZ253,Evan,16-07-2024,Medium,,WindPlus,Iowa,Inactive,96,2023-10-14
+KJ845,Alice,06-11-2024,Low,,SolarOne,Kansas,Inactive,96,2022-09-18
+MN125,Alice,27-12-2024,High,,WindPlus,California,Pending,27,2025-05-17
+CC791,Charlie,01-05-2025,Low,,SolarTwo,Iowa,Pending,47,2023-07-13
+MN775,Diana,06-06-2024,Low,,HydroFlow,Texas,Active,86,2023-03-10
+KJ546,Diana,30-06-2024,Medium,Waiting for approval,EcoPower,Texas,Active,87,2024-06-30
+CC344,Evan,12-12-2024,Low,Follow up,EcoPower,Kansas,Pending,39,2023-07-24
+AA421,Alice,16-10-2024,High,,GreenLight,Iowa,Inactive,36,2023-06-15
+AA886,Diana,01-12-2024,Low,Waiting for approval,HydroFlow,California,Pending,99,2024-06-19
+CC399,Evan,29-01-2025,Medium,Follow up,SolarTwo,Kansas,Pending,83,2024-08-18
+KJ230,Charlie,07-05-2025,Medium,Urgent,EcoPower,Iowa,Active,97,2022-10-19
+MN148,Alice,08-07-2024,Low,,SolarTwo,California,Inactive,80,2024-03-04
+CC849,Bob,12-05-2025,Medium,Waiting for approval,EcoPower,Nevada,Active,95,2022-10-05
+CC511,Diana,12-11-2024,High,,SolarOne,Kansas,Active,13,2022-09-11
+MN742,Charlie,14-12-2024,High,Urgent,SolarOne,Nevada,Inactive,37,2024-02-15
+AA240,Diana,04-10-2024,Medium,Follow up,SolarOne,Texas,Inactive,44,2023-11-13
+KJ459,Alice,30-04-2025,Low,Follow up,WindX,Nevada,Active,77,2024-10-14
+AA283,Diana,18-11-2024,Medium,,WindPlus,Oregon,Active,78,2022-11-13
+KJ871,Bob,20-01-2025,Low,Urgent,WindX,Kansas,Active,97,2025-03-06
+MN480,Diana,11-02-2025,Low,Follow up,SolarOne,Oregon,Pending,56,2023-07-05
+AA986,Evan,15-03-2025,Medium,Follow up,SolarTwo,Kansas,Pending,22,2024-10-05
+XZ469,Bob,08-06-2024,High,,GreenLight,California,Active,40,2024-05-12
+KJ598,Evan,14-10-2024,Medium,Follow up,GreenLight,Nevada,Pending,96,2024-03-17
+BB402,Evan,05-09-2024,Low,Waiting for approval,GreenLight,Iowa,Inactive,68,2025-01-25
+MN413,Bob,17-05-2025,High,,EcoPower,Nevada,Inactive,93,2024-07-31
+AA926,Bob,29-09-2024,High,Urgent,WindPlus,Oregon,Active,67,2023-05-04
+XZ275,Diana,20-10-2024,High,Follow up,EcoPower,Kansas,Pending,32,2024-05-25
+MN568,Bob,22-06-2024,Medium,Waiting for approval,GreenLight,Oregon,Inactive,27,2024-12-15
+AA123,Diana,06-11-2024,High,Follow up,HydroFlow,Kansas,Pending,99,2023-10-02
+KJ496,Evan,30-10-2024,Medium,Urgent,HydroFlow,Oregon,Inactive,70,2025-04-18
+CC861,Evan,24-09-2024,Low,Waiting for approval,EcoPower,California,Active,36,2025-01-26
+MN848,Diana,17-11-2024,Medium,Follow up,WindPlus,Oregon,Inactive,27,2024-06-04
+AA851,Bob,28-06-2024,High,Waiting for approval,HydroFlow,California,Inactive,52,2024-12-02
+CC676,Diana,07-08-2024,High,Urgent,GreenLight,Nevada,Inactive,21,2024-05-16
+BB560,Charlie,02-10-2024,Medium,Waiting for approval,HydroFlow,Nevada,Pending,55,2025-02-24
+BB486,Evan,26-02-2025,Medium,Follow up,EcoPower,Iowa,Inactive,20,2023-10-14
+KJ405,Bob,19-12-2024,High,Waiting for approval,SolarOne,Nevada,Pending,33,2023-12-10
+AA105,Alice,17-05-2025,Medium,,WindPlus,Oregon,Active,45,2024-08-12
+CC261,Evan,06-04-2025,High,Urgent,GreenLight,Texas,Pending,36,2024-12-17
+BB660,Charlie,20-08-2024,High,Follow up,WindX,Texas,Active,70,2023-05-17
+MN166,Alice,05-01-2025,Medium,Urgent,GreenLight,Texas,Inactive,58,2023-11-01
+KJ797,Charlie,06-05-2025,High,Urgent,SolarTwo,Nevada,Pending,88,2025-01-29
+CC393,Diana,26-12-2024,Low,Waiting for approval,SolarOne,California,Inactive,83,2023-08-10
+XZ339,Diana,30-04-2025,Medium,Waiting for approval,SolarTwo,Nevada,Pending,80,2024-03-13
+CC957,Diana,16-06-2024,High,Urgent,SolarTwo,Nevada,Pending,50,2024-01-27
+CC143,Charlie,26-03-2025,Low,Waiting for approval,SolarOne,Texas,Active,57,2025-04-29
+BB997,Charlie,18-03-2025,High,Urgent,HydroFlow,Texas,Inactive,93,2024-03-09
+MN158,Bob,21-05-2025,Low,Urgent,EcoPower,Kansas,Active,51,2022-09-30
+CC453,Evan,23-08-2024,High,,SolarTwo,Oregon,Active,56,2022-09-07
+MN938,Diana,08-01-2025,High,Follow up,HydroFlow,Kansas,Inactive,87,2023-06-08
+BB527,Diana,27-08-2024,High,Follow up,WindPlus,Nevada,Inactive,84,2024-10-06
+XZ972,Evan,01-03-2025,Medium,Waiting for approval,WindPlus,Nevada,Active,81,2024-10-14
+CC253,Alice,20-07-2024,High,Follow up,EcoPower,Nevada,Inactive,98,2024-08-17
+BB552,Bob,23-09-2024,High,Waiting for approval,WindX,Iowa,Pending,56,2024-02-06
+CC314,Diana,14-11-2024,Medium,Urgent,WindPlus,Nevada,Active,77,2023-09-07
+CC133,Diana,20-11-2024,Medium,,SolarTwo,Texas,Active,14,2024-11-11
+BB751,Diana,14-03-2025,High,Follow up,WindPlus,Nevada,Inactive,77,2023-12-04
+BB712,Bob,14-07-2024,High,Follow up,SolarOne,Oregon,Inactive,80,2022-12-01
+AA718,Evan,04-02-2025,High,Waiting for approval,HydroFlow,Texas,Inactive,68,2022-10-05
+XZ350,Evan,25-06-2024,High,,SolarTwo,Nevada,Pending,42,2024-06-18
+MN790,Diana,17-08-2024,Medium,Urgent,WindPlus,Nevada,Active,11,2023-01-23
+AA892,Bob,14-10-2024,Low,Waiting for approval,HydroFlow,Iowa,Inactive,75,2025-01-08
